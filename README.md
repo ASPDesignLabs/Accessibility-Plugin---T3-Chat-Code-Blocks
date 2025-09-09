@@ -22,10 +22,6 @@ class="shiki ... text-lg"
 
 ---
 
-## 📸 Screenshot
-(Add a screenshot here of the extension in action.)
-
----
 
 ## 🔧 Installation
 
