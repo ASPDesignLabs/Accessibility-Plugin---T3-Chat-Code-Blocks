@@ -35,6 +35,3 @@ class="shiki ... text-lg"
 ## 📦 Manual Install via Release ZIP
 Download the latest release from [Releases](https://github.com/YOURNAME/accessibility-t3-chat-code-blocks/releases) and load it via `chrome://extensions/`.
 
----
-
-## 📂 Project Structure
